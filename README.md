@@ -1,1 +1,1 @@
-# tp-git-formation (modifié par U3 sur feature/logout-button)
+# tp-git-formation (fusion des modifications U1 et U3)
