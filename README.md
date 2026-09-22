@@ -1,1 +1,1 @@
-# tp-git-formation (modifié par U1 sur main)
+# tp-git-formation (fusion des modifications U1 et U3)
