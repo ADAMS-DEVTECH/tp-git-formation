@@ -1,9 +1,9 @@
-function login(u, p) {
-  if (!u || !p) {
+function login(username, password) {
+  if (!username || !password) {
     return "Identifiants manquants";
   }
-  console.log("Connexion de : " + u);
+  console.log("Connexion de : " + username);
   return true;
 }
-
+ 
 module.exports = login;
